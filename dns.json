@@ -1,0 +1,9 @@
+{
+  "records": [
+    {
+      "type": "CNAME",
+      "name": "blockysmp",
+      "value": "behind-mtv.gl.joinmc.link"
+    }
+  ]
+}
