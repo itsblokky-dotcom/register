@@ -1,0 +1,9 @@
+{
+  "records": [
+    {
+      "type": "CNAME",
+      "name": "@",
+      "value": "behind-mtv.gl.joinmc.link"
+    }
+  ]
+}
